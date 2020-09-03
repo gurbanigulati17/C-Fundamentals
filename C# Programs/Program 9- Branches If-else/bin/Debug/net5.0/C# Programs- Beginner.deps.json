@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0": {
+      "C# Programs- Beginner/1.0.0": {
+        "runtime": {
+          "C# Programs- Beginner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Programs- Beginner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
